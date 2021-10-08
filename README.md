@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jadame10
-- 👀 I’m interested in Website development, Frontend techniques.
+- 👀 I’m interested in Website development, Frontend technologies.
 - 🌱 I’m currently learning React JS
 - All projects are on the branches -> 'master'
 <!---
